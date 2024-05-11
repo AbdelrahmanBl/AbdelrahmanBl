@@ -1,3 +1,4 @@
+![image](dino.gif)
 ### Hi there 👋
 I'am developing many of packages 🔭 that helps the developers to achieve what he/she wants by little code and high performance ⚡.
  
