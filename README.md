@@ -1,14 +1,15 @@
 ![image](dino.gif)
 ### Hi there 👋
-I'am developing many of packages 🔭 that helps the developers to achieve what he/she wants by little code and high performance ⚡.
- 
-🔭 I’m currently working on code link booster pacakge that based on php/Laravel and this pacakge is incredible.
-You can writing a code with php/laravel 10x faster than the normal way, you can use Booster facade to do many things in an easy way like : 
- - handle report generation data 
- - handle excel export data
- - handle notification data
- - handle select box (enum - table) data
- - send/verify otp
+🔭 I am a fullstack web developer over 5 years ⚡ of experience in my career.
+
+📚 I read some books:
+   * Laravel, Up & Running
+   * Learning SQL
+   * Linux Basics for Hackers
+
+👯 I have contributions in:
+   * [spatie/eloquent-sortable]([xxxxx](https://github.com/spatie/eloquent-sortable))
+
 <!--
 **AbdelrahmanBl/AbdelrahmanBl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
