@@ -3,12 +3,12 @@
 🔭 I am a fullstack web developer over 5 years ⚡ of experience in my career.
 
 📚 I read some books:
-   * Laravel, Up & Running
    * Learning SQL
+   * Laravel, Up & Running
    * Linux Basics for Hackers
 
 👯 I have contributions in:
-   * [spatie/eloquent-sortable]([xxxxx](https://github.com/spatie/eloquent-sortable))
+   * [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable)
 
 <!--
 **AbdelrahmanBl/AbdelrahmanBl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
