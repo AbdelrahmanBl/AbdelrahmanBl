@@ -13,7 +13,7 @@ I am a fullstack web developer over 5 years ⚡ of experience in my career.
    * Caching Drivers (Redis)
 
 👯 I have contributions in:
-   * [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable)
+   * [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable/pull/167)
 
 🔭 I create some packages:
    * [fatoora-zatca](https://github.com/AbdelrahmanBl/fatoora-zatca)
