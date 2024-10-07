@@ -15,6 +15,7 @@ I am a fullstack web developer over 5 years ⚡ of experience in my career.
 👯 I have contributions in:
    * [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable/pull/167)
    * [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable/pull/447)
+   * [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder/pull/940)
 
 🔭 I create some packages:
    * [fatoora-zatca](https://github.com/AbdelrahmanBl/fatoora-zatca)
